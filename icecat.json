@@ -1,0 +1,3571 @@
+{
+    "msg": "OK",
+    "data": {
+        "Image": {
+            "LowPic": "https://images.icecat.biz/img/gallery_lows/74259312_7779186815.jpg",
+            "HighPic": "https://images.icecat.biz/img/gallery/74259312_7779186815.jpg",
+            "ThumbPic": "https://images.icecat.biz/img/gallery_thumbs/74259312_7779186815.jpg",
+            "LowPicSize": "23971",
+            "Pic500x500": "https://images.icecat.biz/img/gallery_mediums/74259312_7779186815.jpg",
+            "HighPicSize": "2141495",
+            "LowPicWidth": "200",
+            "HighPicWidth": "3864",
+            "LowPicHeight": "128",
+            "ThumbPicSize": "5164",
+            "HighPicHeight": "2467",
+            "Pic500x500Size": "112107",
+            "Pic500x500Width": "500",
+            "Pic500x500Height": "319"
+        },
+        "Gallery": [
+            {
+                "ID": "58702723",
+                "No": "1",
+                "Pic": "https://images.icecat.biz/img/gallery/74259312_7779186815.jpg",
+                "Size": "2141495",
+                "Type": "ProductImageFront-Center",
+                "IsMain": "Y",
+                "LowPic": "https://images.icecat.biz/img/gallery_lows/74259312_7779186815.jpg",
+                "LowSize": "23971",
+                "Updated": "2025-08-06 14:06:35",
+                "LowWidth": "200",
+                "PicWidth": "3864",
+                "ThumbPic": "https://images.icecat.biz/img/gallery_thumbs/74259312_7779186815.jpg",
+                "IsPrivate": "0",
+                "LowHeight": "128",
+                "PicHeight": "2467",
+                "Attributes": {
+                    "OriginalFileName": "Center_facing"
+                },
+                "Pic500x500": "https://images.icecat.biz/img/gallery_mediums/74259312_7779186815.jpg",
+                "ThumbPicSize": "5164",
+                "Pic500x500Size": "112107",
+                "Pic500x500Width": "500",
+                "Pic500x500Height": "319"
+            }
+        ],
+        "Reviews": [],
+        "Variants": [
+            {
+                "VariantID": "929098",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808901539",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808901539",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G09",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER 5550HDN"
+            },
+            {
+                "VariantID": "929110",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808901546",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808901546",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G10",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER 5550N"
+            },
+            {
+                "VariantID": "929127",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110498",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110498",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G01",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5500"
+            },
+            {
+                "VariantID": "929144",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110504",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110504",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G02",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5500DN"
+            },
+            {
+                "VariantID": "929157",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110566",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110566",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G08",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5550N"
+            },
+            {
+                "VariantID": "929173",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110528",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110528",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G04",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5500HDN"
+            },
+            {
+                "VariantID": "929187",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110535",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110535",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G05",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5500N"
+            },
+            {
+                "VariantID": "929201",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110542",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110542",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G06",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5550"
+            },
+            {
+                "VariantID": "929213",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110559",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110559",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G07",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5550HDN"
+            },
+            {
+                "VariantID": "929224",
+                "VariantImages": [],
+                "VariantFeatures": [],
+                "VariantMultimedia": [],
+                "VariantIdentifiers": [
+                    {
+                        "Value": "0193808110511",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "193808110511",
+                        "IsApproved": true,
+                        "Identifier Type": "GTIN13"
+                    },
+                    {
+                        "Value": "C9731A#G03",
+                        "Identifier Type": "BrandProductCode"
+                    }
+                ],
+                "VariantDescriptions": "C9731A 645A TONER LJ 5500DTN"
+            }
+        ],
+        "Dictionary": {
+            "desc": "Descripci&oacute;n",
+            "specs": "Especificaciones",
+            "video": "Video",
+            "pdf_url": "User manual",
+            "cat_name": "Categor&iacute;a",
+            "ean_code": "C&oacute;digo EAN/UPC",
+            "flash360": "3D tour",
+            "pdf_specs": "Folleto",
+            "prod_code": "C&oacute;digo del producto",
+            "model_name": "Nombre de producto",
+            "back_to_top": "Volver arriba",
+            "html_content": "",
+            "release_date": "Release date",
+            "supplier_name": "Marca",
+            "zoom_panel_in": "Zoom in",
+            "demo_msg_part1": "Ahora est&aacute; usando una cuenta demo. Por favor, utilice su propia cuenta Icecat",
+            "demo_msg_part2": "Su nombre de usuario de Icecat",
+            "demo_msg_part3": "Si no tiene una cuenta en Icecat, reg&iacute;strese aqu&iacute; de forma gratuita",
+            "marketing_text": "Descripción",
+            "product_family": "Familia de productos",
+            "product_series": "Series de Productos",
+            "reasons_to_buy": "Razones para comprar",
+            "zoom_panel_out": "Zoom out",
+            "eu_energy_label": "EU Energy Label",
+            "zoom_panel_init": "Original size",
+            "demo_insert_desc": "Esta es una demo de una inserci&oacute;n de ficha de producto Icecat LIVE en su sitio web. Imagine que esta ficha t&eacute;cnica est&aacute; incluida en la p&aacute;gina del producto de su tienda online.",
+            "eu_product_fiche": "EU Product Fiche",
+            "zoom_panel_dragg": "Mouse dragging",
+            "options_head_name": "Options",
+            "reviews_head_name": "Reviews",
+            "link_integrate_desk": "How to integrate Icecat LIVE JavaScript.",
+            "repairability_index": "Repairability index"
+        },
+        "Multimedia": [
+            {
+                "ID": "D90385C5-BF77-49C1-8E99-F9761D3BC9AC",
+                "URL": "https://objects.icecat.biz/objects/74259312_65496512.mp4",
+                "Size": "2837593",
+                "Type": "video/mp4",
+                "IsVideo": 1,
+                "Updated": "2025-07-04 23:05:03",
+                "Language": "ES",
+                "ThumbUrl": "https://objects.icecat.biz/objects/thumb/74259312_65496512_thumb.png",
+                "IsPrivate": "0",
+                "KeepAsUrl": "0",
+                "PreviewUrl": "https://objects.icecat.biz/objects/preview/74259312_65496512_preview.png",
+                "ContentType": "video/mp4",
+                "Description": "Original HP Cartridges syringe high level 1x1 refresh visID - Spanish/Castilian es_ES"
+            },
+            {
+                "ID": "FB5EC49E-5100-4AE4-9399-806AF99CE19E",
+                "URL": "https://objects.icecat.biz/objects/74259312_69124975.mp4",
+                "Size": "2346205",
+                "Type": "video/mp4",
+                "IsVideo": 1,
+                "Updated": "2025-09-17 20:36:35",
+                "Language": "ES",
+                "ThumbUrl": "https://objects.icecat.biz/objects/thumb/74259312_69124975_thumb.png",
+                "IsPrivate": "0",
+                "KeepAsUrl": "0",
+                "PreviewUrl": "https://objects.icecat.biz/objects/preview/74259312_69124975_preview.png",
+                "ContentType": "video/mp4",
+                "Description": "Original HP TRK syringe high level 16x9 refresh visID - Spanish/Castilian es_ES"
+            },
+            {
+                "ID": "00000000-0000-0000-0000-000000000000",
+                "URL": "https://icecat.biz/rest/product-pdf?productId=74259312&lang=es",
+                "Size": "0",
+                "Type": "leaflet",
+                "IsVideo": 0,
+                "Updated": "2026-01-19 04:36:02",
+                "Language": "ES",
+                "IsPrivate": "0",
+                "KeepAsUrl": "0",
+                "ContentType": "application/pdf",
+                "Description": "Brochure HP C9731A"
+            }
+        ],
+        "DemoAccount": false,
+        "GeneralInfo": {
+            "GTIN": [
+                "5051395355256",
+                "0999992560015",
+                "999992560015",
+                "5060208720006",
+                "3609740139895",
+                "0886984454196",
+                "886984454196",
+                "4250634187295",
+                "0807027519078",
+                "807027519078",
+                "5051395532244",
+                "0193808110566",
+                "193808110566",
+                "0193808110498",
+                "193808110498",
+                "0193808110559",
+                "193808110559",
+                "0193808110542",
+                "193808110542",
+                "0193808110535",
+                "193808110535",
+                "0193808110528",
+                "193808110528",
+                "0193808110511",
+                "193808110511",
+                "0193808110504",
+                "193808110504",
+                "0193808901539",
+                "193808901539",
+                "0193808901546",
+                "193808901546",
+                "0088698445419",
+                "088698445419"
+            ],
+            "Brand": "HP",
+            "GTINs": [
+                {
+                    "GTIN": "5051395355256",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0999992560015",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "999992560015",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "5060208720006",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "3609740139895",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0886984454196",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "886984454196",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "4250634187295",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0807027519078",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "807027519078",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "5051395532244",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110566",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110566",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110498",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110498",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110559",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110559",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110542",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110542",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110535",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110535",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110528",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110528",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110511",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110511",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808110504",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808110504",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808901539",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808901539",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0193808901546",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "193808901546",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "0088698445419",
+                    "IsApproved": true
+                },
+                {
+                    "GTIN": "088698445419",
+                    "IsApproved": true
+                }
+            ],
+            "Title": "HP Cartucho de tóner original LaserJet 645A cian",
+            "BrandID": "1",
+            "Category": {
+                "Name": {
+                    "Value": "Cartuchos de tóner",
+                    "Language": "ES"
+                },
+                "CategoryID": "375"
+            },
+            "IcecatId": 74259312,
+            "BrandInfo": {
+                "BrandLogo": "https://images.icecat.biz/img/brand/thumb/1_d30fcedad0114a21995254ed83bd0a5e.jpg",
+                "BrandName": "HP",
+                "BrandLocalName": ""
+            },
+            "BrandLogo": "https://images.icecat.biz/img/brand/thumb/1_d30fcedad0114a21995254ed83bd0a5e.jpg",
+            "TitleInfo": {
+                "BrandLocalTitle": {
+                    "Value": "HP Cartucho de tóner original LaserJet 645A cian",
+                    "Language": "ES"
+                },
+                "GeneratedIntTitle": "HP 645A Cyan Original LaserJet toner cartridge",
+                "GeneratedLocalTitle": {
+                    "Value": "HP 645A Cyan Original LaserJet Toner Cartridge cartucho de tóner 1 pieza(s)",
+                    "Language": "ES"
+                }
+            },
+            "Description": {
+                "ID": "84314267",
+                "URL": "https://www8.hp.com",
+                "PDFSize": "0",
+                "Updated": "2025-04-16 20:54:31",
+                "Language": "ES",
+                "LongDesc": "Ideal para producir el texto negro y los gráficos profesionales que precisas —página tras página— a velocidades adaptadas a tu impresora.<br>Obtenga los mejores resultados de su sistema de impresión HP. La tecnología HP Smart<sup>[1]</sup> y las fórmulas de tóner con crecimiento químico en cartuchos de tóner HP 645A LaserJet trabajan con su impresora, para ofrecer color preciso y consistente, así como rendimiento fiable y rentable.",
+                "Disclaimer": "<sup>[1]</sup>El uso de consumibles HP auténticos garantiza la disponibilidad de todas las funciones de impresión HP.",
+                "MiddleDesc": "Cartucho de tóner HP LaserJet 645A, cian, 12 000 páginas",
+                "ManualPDFURL": "",
+                "WarrantyInfo": "Garantía de protección HP Premium.  Este producto HP tiene garantía contra defectos en materiales y mano de obra.",
+                "LeafletPDFURL": "",
+                "ManualPDFSize": "0",
+                "LongProductName": "Cartucho de tóner original LaserJet HP 645A cian"
+            },
+            "ProductName": "Cartucho de tóner original LaserJet HP 645A cian",
+            "ReleaseDate": "14-01-2003",
+            "BulletPoints": {
+                "Values": [
+                    "Los cartuchos de Tóner Original HP 645A ofrecen la legendaria calidad de impresión de HP.",
+                    "1 cian (aprox. 12 000 páginas)",
+                    "Imprime texto en negro de gran calidad y gráficos brillantes gracias a los Consumibles Originales HP diseñados para ofrecer una gran fiabilidad.",
+                    "Impresión de toda confianza",
+                    "Ideal para producir el texto negro y los gráficos profesionales que precisas —página tras página— a velocidades adaptadas a tu impresora.",
+                    "Confía en los cartuchos de Tóner Original HP 645A diseñados específicamente para tu impresora HP.",
+                    "Cartucho de tóner; Guía de reciclaje"
+                ],
+                "Updated": "2025-04-16 20:54:40",
+                "Language": "ES",
+                "BulletPointsId": "5522524"
+            },
+            "BrandPartCode": "C9731A",
+            "EndOfLifeDate": "30-11-2027",
+            "ProductFamily": {},
+            "ProductSeries": {
+                "SeriesID": "1"
+            },
+            "ProductNameInfo": {
+                "ProductIntName": "645A Cyan Original LaserJet Toner Cartridge",
+                "ProductLocalName": {
+                    "Value": "Cartucho de tóner original LaserJet HP 645A cian",
+                    "Language": "ES"
+                }
+            },
+            "SummaryDescription": {
+                "LongSummaryDescription": "HP Cartucho de tóner original LaserJet 645A cian. Rendimiento de impresión de tóner de color: 12000 páginas, Colores de impresión: Cian, Cantidad por paquete: 1 pieza(s)",
+                "ShortSummaryDescription": "HP Cartucho de tóner original LaserJet 645A cian, 12000 páginas, Cian, 1 pieza(s)"
+            },
+            "GeneratedBulletPoints": {
+                "Values": [
+                    "Original",
+                    "Colores de impresión: Cian",
+                    "Rendimiento estándar",
+                    "Rendimiento de impresión de tóner de color: 12000 páginas",
+                    "Impresión láser",
+                    "1 pieza(s)"
+                ],
+                "Language": "ES"
+            }
+        },
+        "FeatureLogos": [],
+        "ProductStory": [],
+        "ReasonsToBuy": [
+            {
+                "No": "19",
+                "Title": "El rendimiento de siempre",
+                "Value": "Confía en el tóner Original HP para impactantes impresiones y un rendimiento de impresión excepcional en las que puedes confiar.",
+                "Origin": "RTB",
+                "HighPic": "",
+                "Updated": "2025-11-11 20:14:19",
+                "Language": "ES",
+                "IsPrivate": "0",
+                "HighPicSize": "0",
+                "ReasonToBuyID": "79542875"
+            },
+            {
+                "No": "20",
+                "Title": "Calidad profesional fiable.",
+                "Value": "Gracias al tóner Original HP podrás disfrutar de una impresión uniforme e ininterrumpida que te permite seguir trabajando.",
+                "Origin": "RTB",
+                "HighPic": "",
+                "Updated": "2025-11-11 20:14:19",
+                "Language": "ES",
+                "IsPrivate": "0",
+                "HighPicSize": "0",
+                "ReasonToBuyID": "79542874"
+            },
+            {
+                "No": "21",
+                "Title": "Momentos definidos con resultados brillantes.",
+                "Value": "Representa tus ideas profesionales con impresiones de color de gran calidad y logra que tu trabajo destaque del resto.",
+                "Origin": "RTB",
+                "HighPic": "",
+                "Updated": "2025-11-11 20:14:19",
+                "Language": "ES",
+                "IsPrivate": "0",
+                "HighPicSize": "0",
+                "ReasonToBuyID": "79542877"
+            }
+        ],
+        "FeaturesGroups": [
+            {
+                "ID": 10671,
+                "SortNo": "30",
+                "Features": [
+                    {
+                        "ID": 417639400,
+                        "Type": "textarea",
+                        "Value": "HP LaserJet 5000, 5500, 5550",
+                        "SortNo": "10000996",
+                        "Feature": {
+                            "ID": "890",
+                            "Name": {
+                                "Value": "Compatibilidad",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 547811902,
+                        "Optional": "0",
+                        "RawValue": "HP LaserJet 5000, 5500, 5550",
+                        "Localized": 0,
+                        "Mandatory": "1",
+                        "LocalValue": "Los cartuchos de Tóner HP 645 funcionan con:",
+                        "Searchable": "0",
+                        "Description": "The other products, software and hardware this product can be used with.",
+                        "CategoryFeatureId": "114143",
+                        "PresentationValue": "Los cartuchos de Tóner HP 645 funcionan con:",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417639401,
+                        "Type": "numerical",
+                        "Value": "1",
+                        "SortNo": "10000994",
+                        "Feature": {
+                            "ID": "20228",
+                            "Name": {
+                                "Value": "Cantidad por paquete",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "1",
+                        "Localized": 0,
+                        "Mandatory": "1",
+                        "LocalValue": "1",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "187527",
+                        "PresentationValue": "1 pieza(s)",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417667023,
+                        "Type": "dropdown",
+                        "Value": "Standard Yield",
+                        "SortNo": "10000980",
+                        "Feature": {
+                            "ID": "6273",
+                            "Name": {
+                                "Value": "Tipo de cartucho de tinta",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "Standard Yield",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "Rendimiento estándar",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "73704",
+                        "PresentationValue": "Rendimiento estándar",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417667021,
+                        "Type": "numerical",
+                        "Value": "12000",
+                        "SortNo": "10000977",
+                        "Feature": {
+                            "ID": "38097",
+                            "Name": {
+                                "Value": "Rendimiento de impresión de tóner de color",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "55",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "páginas",
+                                    "ID": "7463",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "12000",
+                        "Localized": 0,
+                        "Mandatory": "1",
+                        "LocalValue": "12000",
+                        "Searchable": "0",
+                        "Description": "Rendimiento medio aproximado de páginas por elemento individual. El rendimiento real puede variar según el contenido que se imprima, el tipo de papel, la frecuencia de las impresiones y las condiciones ambientales.",
+                        "CategoryFeatureId": "300189",
+                        "PresentationValue": "12000 páginas",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417639396,
+                        "Type": "dropdown",
+                        "Value": "Original",
+                        "SortNo": "1001",
+                        "Feature": {
+                            "ID": "31",
+                            "Name": {
+                                "Value": "Tipo",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "Original",
+                        "Localized": 0,
+                        "Mandatory": "1",
+                        "LocalValue": "Original",
+                        "Searchable": "1",
+                        "Description": "Characteristics of the device.",
+                        "CategoryFeatureId": "300184",
+                        "PresentationValue": "Original",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417639397,
+                        "Type": "dropdown",
+                        "Value": "Cyan",
+                        "SortNo": "1000",
+                        "Feature": {
+                            "ID": "2037",
+                            "Name": {
+                                "Value": "Colores de impresión",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "Cyan",
+                        "Localized": 0,
+                        "Mandatory": "1",
+                        "LocalValue": "Cian",
+                        "Searchable": "1",
+                        "Description": "The colours that can be produced by the printer.",
+                        "CategoryFeatureId": "9879",
+                        "PresentationValue": "Cian",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417639399,
+                        "Type": "dropdown",
+                        "Value": "HP",
+                        "SortNo": "997",
+                        "Feature": {
+                            "ID": "8156",
+                            "Name": {
+                                "Value": "Marca compatible",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "HP",
+                        "Localized": 0,
+                        "Mandatory": "1",
+                        "LocalValue": "HP",
+                        "Searchable": "1",
+                        "Description": "What other brands this brand can be used with.",
+                        "CategoryFeatureId": "95617",
+                        "PresentationValue": "HP",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417667029,
+                        "Type": "alphanumeric",
+                        "Value": "C9731A",
+                        "SortNo": "6",
+                        "Feature": {
+                            "ID": "15279",
+                            "Name": {
+                                "Value": "Código OEM",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "C9731A",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "C9731A",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "91098",
+                        "PresentationValue": "C9731A",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417667035,
+                        "Type": "numerical",
+                        "Value": "1",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "2055",
+                            "Name": {
+                                "Value": "Cantidad por caja",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "1",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "1",
+                        "Searchable": "0",
+                        "Description": "number of sheets or media per single package",
+                        "CategoryFeatureId": "30381",
+                        "PresentationValue": "1 pieza(s)",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 466933213,
+                        "Type": "numerical",
+                        "Value": "17",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "24863",
+                            "Name": {
+                                "Value": "Porcentaje de material reciclado",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "64",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "%",
+                                    "ID": "7472",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "17",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "17",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "249654",
+                        "PresentationValue": "17%",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417667070,
+                        "Type": "multi_dropdown",
+                        "Value": "Japan",
+                        "SortNo": "-1",
+                        "Feature": {
+                            "ID": "3294",
+                            "Name": {
+                                "Value": "País de origen",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "Japan",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "Japón",
+                        "Searchable": "0",
+                        "Description": "Country where the device is made. Aka Country of manufacture (COM).",
+                        "CategoryFeatureId": "27816",
+                        "PresentationValue": "Japón",
+                        "CategoryFeatureGroupID": "10671"
+                    },
+                    {
+                        "ID": 417667080,
+                        "Type": "dropdown",
+                        "Value": "Business",
+                        "SortNo": "-200",
+                        "Feature": {
+                            "ID": "35183",
+                            "Name": {
+                                "Value": "Segmento HP",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "Business",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "Negocios",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "337224",
+                        "PresentationValue": "Negocios",
+                        "CategoryFeatureGroupID": "10671"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "185",
+                    "Name": {
+                        "Value": "Características",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 2280,
+                "SortNo": "15",
+                "Features": [
+                    {
+                        "ID": 417667081,
+                        "Type": "range",
+                        "Value": "15 - 25",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "1112",
+                            "Name": {
+                                "Value": "Intervalo de temperatura operativa",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "65",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "°C",
+                                    "ID": "7473",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "15 - 25",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "15 - 25",
+                        "Searchable": "0",
+                        "Description": "The minimum and maximum temperatures at which the product can be safely operated.",
+                        "CategoryFeatureId": "5573",
+                        "PresentationValue": "15 - 25 °C",
+                        "CategoryFeatureGroupID": "2280"
+                    },
+                    {
+                        "ID": 417667092,
+                        "Type": "range",
+                        "Value": "20 - 80",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "703",
+                            "Name": {
+                                "Value": "Intervalo de humedad relativa para funcionamiento",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "64",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "%",
+                                    "ID": "7472",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "20 - 80",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "20 - 80",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "5769",
+                        "PresentationValue": "20 - 80%",
+                        "CategoryFeatureGroupID": "2280"
+                    },
+                    {
+                        "ID": 417667005,
+                        "Type": "range",
+                        "Value": "-20 - 40",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "757",
+                            "Name": {
+                                "Value": "Intervalo de temperatura de almacenaje",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "65",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "°C",
+                                    "ID": "7473",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "-20 - 40",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "-20 - 40",
+                        "Searchable": "0",
+                        "Description": "The minimum and maximum temperatures at which the product can be safely stored.",
+                        "CategoryFeatureId": "5770",
+                        "PresentationValue": "-20 - 40 °C",
+                        "CategoryFeatureGroupID": "2280"
+                    },
+                    {
+                        "ID": 417667020,
+                        "Type": "range",
+                        "Value": "10 - 90",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "1383",
+                            "Name": {
+                                "Value": "Intervalo de humedad relativa durante almacenaje",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "64",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "%",
+                                    "ID": "7472",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "10 - 90",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "10 - 90",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "12235",
+                        "PresentationValue": "10 - 90%",
+                        "CategoryFeatureGroupID": "2280"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "28",
+                    "Name": {
+                        "Value": "Condiciones ambientales",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 2279,
+                "SortNo": "8",
+                "Features": [
+                    {
+                        "ID": 417667101,
+                        "Type": "numerical",
+                        "Value": "500",
+                        "SortNo": "40",
+                        "Feature": {
+                            "ID": "1649",
+                            "Name": {
+                                "Value": "Ancho",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "500",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "500",
+                        "Searchable": "0",
+                        "Description": "The measurement or extent of something from side to side.",
+                        "CategoryFeatureId": "77713",
+                        "PresentationValue": "500 mm",
+                        "CategoryFeatureGroupID": "2279"
+                    },
+                    {
+                        "ID": 417667102,
+                        "Type": "numerical",
+                        "Value": "160",
+                        "SortNo": "30",
+                        "Feature": {
+                            "ID": "1650",
+                            "Name": {
+                                "Value": "Profundidad",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "160",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "160",
+                        "Searchable": "0",
+                        "Description": "The distance from the front to the back of something.",
+                        "CategoryFeatureId": "77714",
+                        "PresentationValue": "160 mm",
+                        "CategoryFeatureGroupID": "2279"
+                    },
+                    {
+                        "ID": 417667103,
+                        "Type": "numerical",
+                        "Value": "265",
+                        "SortNo": "20",
+                        "Feature": {
+                            "ID": "1464",
+                            "Name": {
+                                "Value": "Altura",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "265",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "265",
+                        "Searchable": "0",
+                        "Description": "Height of the product",
+                        "CategoryFeatureId": "77715",
+                        "PresentationValue": "265 mm",
+                        "CategoryFeatureGroupID": "2279"
+                    },
+                    {
+                        "ID": 417667100,
+                        "Type": "numerical",
+                        "Value": "2300",
+                        "SortNo": "10",
+                        "Feature": {
+                            "ID": "94",
+                            "Name": {
+                                "Value": "Peso",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "38",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "g",
+                                    "ID": "7447",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "2300",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "2,3",
+                        "Searchable": "0",
+                        "Description": "Peso del producto sin embalaje (peso neto). Si es posible, se da el peso neto incluyendo los accesorios y suministros estándar. Tenga en cuenta que a veces el fabricante deja de lado el peso de los accesorios y / o suministros.",
+                        "CategoryFeatureId": "8733",
+                        "PresentationValue": "2,3 kg",
+                        "CategoryFeatureGroupID": "2279"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "14",
+                    "Name": {
+                        "Value": "Peso y dimensiones",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 80296,
+                "SortNo": "6",
+                "Features": [
+                    {
+                        "ID": 417667130,
+                        "Type": "numerical",
+                        "Value": "500",
+                        "SortNo": "-10",
+                        "Feature": {
+                            "ID": "3808",
+                            "Name": {
+                                "Value": "Ancho del paquete",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "500",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "500",
+                        "Searchable": "0",
+                        "Description": "The distance from one side of the packaging to the other.",
+                        "CategoryFeatureId": "32351",
+                        "PresentationValue": "500 mm",
+                        "CategoryFeatureGroupID": "80296"
+                    },
+                    {
+                        "ID": 417667133,
+                        "Type": "numerical",
+                        "Value": "160",
+                        "SortNo": "-11",
+                        "Feature": {
+                            "ID": "3806",
+                            "Name": {
+                                "Value": "Profundidad del paquete",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "160",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "160",
+                        "Searchable": "0",
+                        "Description": "The distance from the front to the back of the packaging.",
+                        "CategoryFeatureId": "77712",
+                        "PresentationValue": "160 mm",
+                        "CategoryFeatureGroupID": "80296"
+                    },
+                    {
+                        "ID": 417667140,
+                        "Type": "numerical",
+                        "Value": "265",
+                        "SortNo": "-12",
+                        "Feature": {
+                            "ID": "3807",
+                            "Name": {
+                                "Value": "Altura del paquete",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "265",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "265",
+                        "Searchable": "0",
+                        "Description": "The distance from the top to the bottom of the packaging.",
+                        "CategoryFeatureId": "32349",
+                        "PresentationValue": "265 mm",
+                        "CategoryFeatureGroupID": "80296"
+                    },
+                    {
+                        "ID": 417667145,
+                        "Type": "numerical",
+                        "Value": "2900",
+                        "SortNo": "-15",
+                        "Feature": {
+                            "ID": "762",
+                            "Name": {
+                                "Value": "Peso del paquete",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "38",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "g",
+                                    "ID": "7447",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "2900",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "2,9",
+                        "Searchable": "0",
+                        "Description": "Weight of the packaged product.",
+                        "CategoryFeatureId": "5067",
+                        "PresentationValue": "2,9 kg",
+                        "CategoryFeatureGroupID": "80296"
+                    },
+                    {
+                        "ID": 417667240,
+                        "Type": "dropdown",
+                        "Value": "Box",
+                        "SortNo": "-20",
+                        "Feature": {
+                            "ID": "4463",
+                            "Name": {
+                                "Value": "Tipo de embalaje",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "Box",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "Caja",
+                        "Searchable": "0",
+                        "Description": "The type of product package e.g. box.",
+                        "CategoryFeatureId": "39967",
+                        "PresentationValue": "Caja",
+                        "CategoryFeatureGroupID": "80296"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "67",
+                    "Name": {
+                        "Value": "Empaquetado",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 72258,
+                "SortNo": "0",
+                "Features": [
+                    {
+                        "ID": 0,
+                        "Type": "text",
+                        "Value": "",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "45795",
+                            "Name": {
+                                "Value": "Total de huella de carbono (kg of CO2e)",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 559566198,
+                        "Optional": "0",
+                        "RawValue": "",
+                        "Localized": 1,
+                        "Mandatory": "0",
+                        "LocalValue": "11,6",
+                        "Searchable": "0",
+                        "Description": "The total mean carbon footprint value generated across various lifecycle stages (manufacturing, transportation / logistics, use and end of life) per unit (for one single product) i.e., measured in kilograms CO2e.",
+                        "CategoryFeatureId": "906375",
+                        "PresentationValue": "11,6",
+                        "CategoryFeatureGroupID": "72258"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "279",
+                    "Name": {
+                        "Value": "Sostenibilidad",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 78119,
+                "SortNo": "0",
+                "Features": [
+                    {
+                        "ID": 0,
+                        "Type": "text",
+                        "Value": "",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "47264",
+                            "Name": {
+                                "Value": "HP GTIN (EAN/UPC)",
+                                "Language": "EN"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 550734371,
+                        "Optional": "1",
+                        "RawValue": "",
+                        "Localized": 1,
+                        "Mandatory": "0",
+                        "LocalValue": "088698445419",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "942304",
+                        "PresentationValue": "088698445419",
+                        "CategoryFeatureGroupID": "78119"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "144",
+                    "Name": {
+                        "Value": "Características especiales",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 20702,
+                "SortNo": "-5",
+                "Features": [
+                    {
+                        "ID": 417639398,
+                        "Type": "dropdown",
+                        "Value": "Laser printing",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "78",
+                            "Name": {
+                                "Value": "Tecnología de impresión",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "Laser printing",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "Impresión láser",
+                        "Searchable": "0",
+                        "Description": "Indicates the method used to print by this product",
+                        "CategoryFeatureId": "9073",
+                        "PresentationValue": "Impresión láser",
+                        "CategoryFeatureGroupID": "20702"
+                    },
+                    {
+                        "ID": 878299083,
+                        "Type": "alphanumeric",
+                        "Value": "44103103",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "2505",
+                            "Name": {
+                                "Value": "Código UNSPSC",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "44103103",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "44103103",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "31721",
+                        "PresentationValue": "44103103",
+                        "CategoryFeatureGroupID": "20702"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "146",
+                    "Name": {
+                        "Value": "Otras características",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 33452,
+                "SortNo": "-10",
+                "Features": [
+                    {
+                        "ID": 491108061,
+                        "Type": "textarea",
+                        "Value": "Toner cartridge; Recycling guide",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "3421",
+                            "Name": {
+                                "Value": "Contenidos de caja",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 548163405,
+                        "Optional": "1",
+                        "RawValue": "Toner cartridge; Recycling guide",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "Cartucho de tóner; Guía de reciclaje",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "339239",
+                        "PresentationValue": "Cartucho de tóner; Guía de reciclaje",
+                        "CategoryFeatureGroupID": "33452"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "0",
+                    "Name": {
+                        "Value": "Detalles técnicos",
+                        "Language": "ES"
+                    }
+                }
+            },
+            {
+                "ID": 20251,
+                "SortNo": "-20",
+                "Features": [
+                    {
+                        "ID": 475359224,
+                        "Type": "3d",
+                        "Value": "1120 x 1000 x 1198",
+                        "SortNo": "16849",
+                        "Feature": {
+                            "ID": "530",
+                            "Name": {
+                                "Value": "Dimensiones del palé (Ancho x Profundidad x Altura)",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "1120 x 1000 x 1198",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "1120 x 1000 x 1198",
+                        "Searchable": "0",
+                        "Description": "Size of pallets (Width x Depth x Height) in millimeters.",
+                        "CategoryFeatureId": "1909",
+                        "PresentationValue": "1120 x 1000 x 1198 mm",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359240,
+                        "Type": "numerical",
+                        "Value": "4",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "2066",
+                            "Name": {
+                                "Value": "Número de apilado para palé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "4",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "4",
+                        "Searchable": "0",
+                        "Description": "number of pallets that can be stocked on top of each other without damaging any pallets",
+                        "CategoryFeatureId": "9881",
+                        "PresentationValue": "4 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 927391636,
+                        "Type": "3d",
+                        "Value": "44.1 x 39.4 x 47.2",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "5699",
+                            "Name": {
+                                "Value": "Dimensiones de Palé (Ancho x Profundidad x Altura)",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "16",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "\"",
+                                    "ID": "7428",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "44.1 x 39.4 x 47.2",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "1120,1 x 1000,8 x 1198,9",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "27826",
+                        "PresentationValue": "1120,1 x 1000,8 x 1198,9 mm (44.1 x 39.4 x 47.2\")",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 927391635,
+                        "Type": "numerical",
+                        "Value": "403",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "5693",
+                            "Name": {
+                                "Value": "Peso de palé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "127",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "libras",
+                                    "ID": "7532",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "403",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "182,8",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "27827",
+                        "PresentationValue": "182,8 kg (403 libras)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359219,
+                        "Type": "3d",
+                        "Value": "1160 x 800 x 944",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "4824",
+                            "Name": {
+                                "Value": "Dimensiones europeas del palé (An x F x Al)",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "24",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "mm",
+                                    "ID": "7436",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "1160 x 800 x 944",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "1160 x 800 x 944",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "30379",
+                        "PresentationValue": "1160 x 800 x 944 mm",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359216,
+                        "Type": "numerical",
+                        "Value": "16",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "34652",
+                            "Name": {
+                                "Value": "Número máximo de cajas a apilar",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "16",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "16",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "899046",
+                        "PresentationValue": "16 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359194,
+                        "Type": "numerical",
+                        "Value": "11",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "44852",
+                            "Name": {
+                                "Value": "Cajas (exteriores) maestras por capa de palé (UE)",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "11",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "11",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "899047",
+                        "PresentationValue": "11 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 494709940,
+                        "Type": "text",
+                        "Value": "84439990",
+                        "SortNo": "0",
+                        "Feature": {
+                            "ID": "23731",
+                            "Name": {
+                                "Value": "Código de Sistema de Armomización (SA)",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "29",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "",
+                                    "ID": "",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "0",
+                        "RawValue": "84439990",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "84439990",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "905368",
+                        "PresentationValue": "84439990",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359233,
+                        "Type": "numerical",
+                        "Value": "182600",
+                        "SortNo": "-33",
+                        "Feature": {
+                            "ID": "19033",
+                            "Name": {
+                                "Value": "Peso del palé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "38",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "g",
+                                    "ID": "7447",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "182600",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "182,6",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "183802",
+                        "PresentationValue": "182,6 kg",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359207,
+                        "Type": "numerical",
+                        "Value": "121000",
+                        "SortNo": "-38",
+                        "Feature": {
+                            "ID": "19032",
+                            "Name": {
+                                "Value": "Peso de europalet",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "38",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "g",
+                                    "ID": "7447",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "121000",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "121",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "216135",
+                        "PresentationValue": "121 kg",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359237,
+                        "Type": "numerical",
+                        "Value": "4",
+                        "SortNo": "-40",
+                        "Feature": {
+                            "ID": "1680",
+                            "Name": {
+                                "Value": "Número de capas por palé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "4",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "4",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "7208",
+                        "PresentationValue": "4 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359232,
+                        "Type": "numerical",
+                        "Value": "14",
+                        "SortNo": "-41",
+                        "Feature": {
+                            "ID": "4938",
+                            "Name": {
+                                "Value": "Número de cartones por capa",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "14",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "14",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "183806",
+                        "PresentationValue": "14 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359211,
+                        "Type": "numerical",
+                        "Value": "56",
+                        "SortNo": "-43",
+                        "Feature": {
+                            "ID": "1679",
+                            "Name": {
+                                "Value": "Número de cajas de cartón por palé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "56",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "56",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "7207",
+                        "PresentationValue": "56 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359221,
+                        "Type": "numerical",
+                        "Value": "56",
+                        "SortNo": "-47",
+                        "Feature": {
+                            "ID": "732",
+                            "Name": {
+                                "Value": "Cantidad por palé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "56",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "56",
+                        "Searchable": "0",
+                        "Description": "Quantity of a single product per pallet. If more than one product is packed per carton; this is the number of products (not number of cartons) per shipping pallet.",
+                        "CategoryFeatureId": "1911",
+                        "PresentationValue": "56 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    },
+                    {
+                        "ID": 475359218,
+                        "Type": "numerical",
+                        "Value": "33",
+                        "SortNo": "-48",
+                        "Feature": {
+                            "ID": "3293",
+                            "Name": {
+                                "Value": "Cantidad de europalé",
+                                "Language": "ES"
+                            },
+                            "Sign": "",
+                            "Measure": {
+                                "ID": "144",
+                                "Sign": "",
+                                "Signs": {
+                                    "_": "pieza(s)",
+                                    "ID": "7549",
+                                    "Language": "ES"
+                                }
+                            }
+                        },
+                        "LocalID": 0,
+                        "Optional": "1",
+                        "RawValue": "33",
+                        "Localized": 0,
+                        "Mandatory": "0",
+                        "LocalValue": "33",
+                        "Searchable": "0",
+                        "Description": "",
+                        "CategoryFeatureId": "27820",
+                        "PresentationValue": "33 pieza(s)",
+                        "CategoryFeatureGroupID": "20251"
+                    }
+                ],
+                "FeatureGroup": {
+                    "ID": "198",
+                    "Name": {
+                        "Value": "Datos logísticos",
+                        "Language": "ES"
+                    }
+                }
+            }
+        ],
+        "ProductRelated": [
+            {
+                "ID": 207253779,
+                "Brand": "MM",
+                "BrandID": 7278,
+                "IcecatID": 12360645,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 375,
+                "ProductCode": "15081DK",
+                "ProductName": "Magenta Laser Toner - HP 645A (C9733A) / Canon EP-87M (7431A003) - For HP Color LaserJet / Canon LBP",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253778,
+                "Brand": "MM",
+                "BrandID": 7278,
+                "IcecatID": 12360644,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 375,
+                "ProductCode": "15080DK",
+                "ProductName": "Yellow Laser Toner - HP 645A (C9732A) / Canon EP-87Y (7430A003) - For HP Color LaserJet / Canon LBP",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253777,
+                "Brand": "MM",
+                "BrandID": 7278,
+                "IcecatID": 12360643,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 375,
+                "ProductCode": "15079DK",
+                "ProductName": "Cyan Laser Toner - HP 645A (C9731A) / Canon EP-87C (7432A003) - For HP Color LaserJet / Canon LBP",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253776,
+                "Brand": "MM",
+                "BrandID": 7278,
+                "IcecatID": 12360633,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 375,
+                "ProductCode": "15078DK",
+                "ProductName": "Black Laser Toner - HP 645A (C9730A) / Canon EP-87BK (7433A003) - For HP Color LaserJet / Canon LBP",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253765,
+                "Brand": "Imation",
+                "BrandID": 81,
+                "IcecatID": 3115985,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 375,
+                "ProductCode": "27350",
+                "ProductName": "27350",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253782,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 18106307,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C8068A",
+                "ProductName": "LaserJet 5000dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253759,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2751788,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#ABA1052",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253753,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2682729,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#ABA1071",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253751,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2682728,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#ABA-BN1071",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253758,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2669029,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#ABA1071",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253757,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2669028,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#ABA-BN1071",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253748,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2669027,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#ABA1071",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253746,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2669026,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#ABA-BN1071",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253744,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359177,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#ABA-A1",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253745,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359176,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#ABA-BN",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253747,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359175,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#ABA1052",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253749,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359173,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#ABA-A1",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253750,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359172,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#ABA-BN",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253752,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359171,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#ABA1052",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253755,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359169,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#ABA-A1",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253756,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2359168,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#ABA-BN",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253754,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 2302746,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#AK2-A1",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253711,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1897882,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#401?FIXIEREIN",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253726,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1804332,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#401?FIXIEREIN",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253735,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1642971,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#401PRO",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253725,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1633554,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#401?30553744",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 286951652,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1595023,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715AR",
+                "ProductName": "Color LaserJet 5550dn Remarketed Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 286951524,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1594927,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714AR",
+                "ProductName": "Color LaserJet 5550n Remarketed Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253728,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1522628,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253720,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1516354,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3713A#401?FIXIEREINHEIT",
+                "ProductName": "Color LaserJet 5550 Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253712,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1516353,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#401?FIXIEREINHEIT",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253727,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1516352,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#401?FIXIEREINHEIT",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253734,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 1516351,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#401?KIT",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253738,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 902017,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253763,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 892023,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716AR",
+                "ProductName": "Color 5550dtn",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253719,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 873330,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3713A#401#*BNDL",
+                "ProductName": "Color LaserJet 5550 Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253710,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 860495,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#401#*ECON",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253729,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 610147,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3715A#425",
+                "ProductName": "Color LaserJet 5550dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253714,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 610146,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A#425",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253737,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 609917,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3716A#425",
+                "ProductName": "Color LaserJet 5550dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253723,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 513830,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3713A",
+                "ProductName": "Color LaserJet 5550 Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253715,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 376063,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3714A",
+                "ProductName": "Color LaserJet 5550n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253740,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 127468,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "Q3717A",
+                "ProductName": "Color LaserJet 5550hdn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253698,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 111245,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9659A#ABH/KIT2",
+                "ProductName": "color LaserJet 5500hdn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253697,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 111243,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9658A#ABH/KIT",
+                "ProductName": "color LaserJet 5500dtn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253696,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 111225,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C7131A#ABH/KIT2",
+                "ProductName": "color LaserJet 5500n printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253695,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 111163,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9657A#ABH/KIT2",
+                "ProductName": "color LaserJet 5500dn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253694,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 111162,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9656A#ABH/KIT2",
+                "ProductName": "color LaserJet 5500 printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253693,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 100400,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9657A#ABH/KIT",
+                "ProductName": "color LaserJet 5500dn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253692,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 100399,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9656A#ABH/KIT",
+                "ProductName": "color LaserJet 5500 printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253691,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 100394,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9658A#ABH/KIT2",
+                "ProductName": "color LaserJet 5500dtn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253690,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 100373,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9659A#ABH/KIT",
+                "ProductName": "color LaserJet 5500hdn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253689,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 100367,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C7131A#ABH/KIT",
+                "ProductName": "color LaserJet 5500n printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253704,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 74493,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9656A",
+                "ProductName": "Color LaserJet 5500 Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253706,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 74491,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C7131A",
+                "ProductName": "Color LaserJet 5500n Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253700,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 74489,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9657A",
+                "ProductName": "Color LaserJet 5500dn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253708,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 74488,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9658A",
+                "ProductName": "Color LaserJet 5500dtn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253702,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 74486,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9659A",
+                "ProductName": "Color LaserJet 5500hdn Printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253701,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 33746,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9659A#ABH",
+                "ProductName": "color LaserJet 5500hdn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253707,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 33745,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9658A#ABH",
+                "ProductName": "color LaserJet 5500dtn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253699,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 33743,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9657A#ABH",
+                "ProductName": "color LaserJet 5500dn printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253705,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 33742,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C7131A#ABH",
+                "ProductName": "color LaserJet 5500n printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            },
+            {
+                "ID": 207253703,
+                "Brand": "HP",
+                "BrandID": 1,
+                "IcecatID": 33741,
+                "ThumbPic": "",
+                "Preferred": 0,
+                "CategoryID": 235,
+                "ProductCode": "C9656A#ABH",
+                "ProductName": "color LaserJet 5500 printer",
+                "ProductRelatedLocales": [
+                    {
+                        "ID": 0,
+                        "EndDate": "",
+                        "Language": "ES",
+                        "Preferred": 0,
+                        "StartDate": ""
+                    }
+                ]
+            }
+        ],
+        "CatalogObjectCloud": {}
+    }
+}

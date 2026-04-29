@@ -1,0 +1,101 @@
+{
+    "resultado": true,
+    "mensaje": "Datos 1",
+    "datos": [
+        {
+            "clave": "MX",
+            "nombre": "MEXICO",
+            "direccion": {
+                "calle": "Poniente 134, entre Norte 35 y 45",
+                "numero exterior": "580",
+                "numero interior": "Letra B",
+                "colonia": "Industrial Vallejo Delegaci\u00f3n Azcapotzalco",
+                "codigo postal": "02300 ",
+                "ciudad": "M\u00e9xico, D.F",
+                "estado": "Distrito Federal"
+            },
+            "tranportistas": [
+                {
+                    "clave": "ESTT",
+                    "nombre": "ESTAFETA (TARIMA)"
+                },
+                {
+                    "clave": "GPCL",
+                    "nombre": "GUIA PAGADA POR CLTE "
+                },
+                {
+                    "clave": "MDHL",
+                    "nombre": "DHL"
+                },
+                {
+                    "clave": "POTT",
+                    "nombre": "POTOSINOS (TARIMA)"
+                },
+                {
+                    "clave": "REXT",
+                    "nombre": "RED EXPRESS (TARIMA) "
+                },
+                {
+                    "clave": "SEXP",
+                    "nombre": "SENDA EXPRESS"
+                },
+                {
+                    "clave": "PRCL",
+                    "nombre": "PROPIO DEL CLIENTE"
+                },
+                {
+                    "clave": "EX01",
+                    "nombre": "REPARTO LOCAL EXEL"
+                },
+                {
+                    "clave": "ESTA",
+                    "nombre": "ESTAFETA 5kg"
+                },
+                {
+                    "clave": "FEDX",
+                    "nombre": "FEDERAL EXPRESS"
+                },
+                {
+                    "clave": "ESTT",
+                    "nombre": "ESTAFETA (TARIMA)"
+                },
+                {
+                    "clave": "GPCL",
+                    "nombre": "GUIA PAGADA POR CLTE "
+                },
+                {
+                    "clave": "MDHL",
+                    "nombre": "DHL"
+                },
+                {
+                    "clave": "POTT",
+                    "nombre": "POTOSINOS (TARIMA)"
+                },
+                {
+                    "clave": "REXT",
+                    "nombre": "RED EXPRESS (TARIMA) "
+                },
+                {
+                    "clave": "SEXP",
+                    "nombre": "SENDA EXPRESS"
+                },
+                {
+                    "clave": "PRCL",
+                    "nombre": "PROPIO DEL CLIENTE"
+                },
+                {
+                    "clave": "EX01",
+                    "nombre": "REPARTO LOCAL EXEL"
+                },
+                {
+                    "clave": "ESTA",
+                    "nombre": "ESTAFETA 5kg"
+                },
+                {
+                    "clave": "FEDX",
+                    "nombre": "FEDERAL EXPRESS"
+                }
+            ]
+        }
+    ]
+}
